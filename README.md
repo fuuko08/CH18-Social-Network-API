@@ -4,6 +4,8 @@
 
 ## Description
 
+I built an API for a social network web application where users can share their thoughts, react to friends' thoughts, and create a friend list.
+
 ### User Story
 ```
 AS A social media startup
@@ -26,6 +28,7 @@ THEN I am able to successfully create and delete reactions to thoughts and add a
 
 ## Mock Up
 
+Please see the video demostation by clicking on this link:
 
 ## Table of Contents
 
@@ -44,7 +47,7 @@ THEN I am able to successfully create and delete reactions to thoughts and add a
 
 ## Usage
 
-Express.js, Mongodb, Mongoose
+I use Express.js for routing, Mongodb database, and Mongoose ODM. I also use Moment.js to format timestamps
 
 <a name="license"/>
 
