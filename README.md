@@ -6,6 +6,8 @@
 
 I built an API for a social network web application where users can share their thoughts, react to friends' thoughts, and create a friend list.
 
+Please see the video demostation by clicking on this link: https://youtu.be/BUXtTWuJvnM
+
 ### User Story
 ```
 AS A social media startup
@@ -28,7 +30,9 @@ THEN I am able to successfully create and delete reactions to thoughts and add a
 
 ## Mock Up
 
-Please see the video demostation by clicking on this link:
+<img width="1440" alt="Screenshot 2022-12-22 at 5 29 47 PM" src="https://user-images.githubusercontent.com/108949883/209253083-cb0dd71d-0d8f-4851-83e0-c131a3532d35.png">
+
+<img width="1439" alt="Screenshot 2022-12-22 at 5 30 01 PM" src="https://user-images.githubusercontent.com/108949883/209253087-0468962a-7f13-4499-b521-5b50f1af7cb0.png">
 
 ## Table of Contents
 
